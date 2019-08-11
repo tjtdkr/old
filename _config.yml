@@ -19,7 +19,7 @@ texture:
   tagline: Student, who want to be a developer
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
+  showNav: true
   showPicker: false
   disqus_shortname: tech
 
