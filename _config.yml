@@ -2,7 +2,6 @@ title: Jang BeomJun
 author: GitHub User
 email: tjtdkr@naver.com
 description: > # this means to ignore newlines until "show_exerpts:"
-개발 일지 작성하는 블로그
 
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: 
