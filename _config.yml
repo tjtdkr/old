@@ -19,7 +19,7 @@ texture:
   style: black
   showNav: false
   showPicker: false
-  disqus_shortname: tech
+  disqus_shortname: Jang
 
   # generate social links in footer
   social_links:
